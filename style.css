@@ -37,6 +37,12 @@ body{
   animation:fadeIn 2s ease;
 }
 
+.reservation-box{
+  display:flex;
+    justify-content:center;
+    align-items:center;
+}
+
 .subtitle{
   letter-spacing:6px;
   text-transform:uppercase;
